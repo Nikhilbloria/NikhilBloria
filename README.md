@@ -148,7 +148,9 @@ Tools & Concepts:
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/nikhilbloria?theme=dark&font=Karma&ext=contest" />
+<a href="https://leetcode.com/u/nikhil_bloria/" target="_blank">
+<img src="https://leetcard.jacoblin.cool/nikhil_bloria?theme=dark&font=Karma&ext=contest" />
+</a>
 
 </p>
 
@@ -158,12 +160,12 @@ Tools & Concepts:
 
 <p align="center">
 
-<a href="https://leetcode.com/u/nikhilbloria/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/nikhil_bloria/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-nikhil__bloria-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/nikhilbloria">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/nikhilbloria" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-nikhilbloria-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
