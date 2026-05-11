@@ -144,23 +144,27 @@ Tools & Concepts:
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 LeetCode Progress
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilbloria&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbloria&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://leetcard.jacoblin.cool/nikhilbloria?theme=dark&font=Karma&ext=contest" />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Coding Profiles
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilbloria&theme=tokyonight"/>
+<a href="https://leetcode.com/u/nikhilbloria/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/nikhilbloria">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
