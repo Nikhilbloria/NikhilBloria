@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikhil Bloria</h1>
-<h3 align="center">B.Tech CSE Student | Cloud & DevOps Enthusiast | Cybersecurity Learner</h3>
+
+<h3 align="center">
+🚀 Cloud & DevOps Enthusiast | 🔐 Cybersecurity Learner | 💻 C++ & DSA Explorer
+</h3>
 
 <p align="center">
   <a href="https://github.com/nikhilbloria">
-    <img src="https://img.shields.io/github/followers/nikhilbloria?label=Followers&style=social" />
+    <img src="https://komarev.com/ghpvc/?username=nikhilbloria&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
-  
-  <a href="mailto:nikhilbloria111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+
+  <a href="https://github.com/nikhilbloria?tab=followers">
+    <img src="https://img.shields.io/github/followers/nikhilbloria?label=Followers&style=social"/>
   </a>
 </p>
 
@@ -15,90 +18,105 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student at **Lovely Professional University**
-- ☁️ Interested in **Cloud Computing, DevOps & Cybersecurity**
-- 🐳 Working with **Docker, Kubernetes & AWS**
-- 🔐 Exploring **Network Security & Cloud Security**
-- 💡 Passionate about **Problem Solving & DSA**
-- 🌱 Currently learning **Advanced DevOps & Security Concepts**
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech CSE Student at **Lovely Professional University**
+- ☁️ Interested in **Cloud Computing, DevOps & AWS**
+- 🔐 Passionate about **Cybersecurity & Network Security**
+- 🐳 Learning **Docker, Kubernetes & Cloud Infrastructure**
+- 💻 Solving DSA problems using **C++**
+- 🛡️ Exploring:
+  - IAM Security
+  - S3 Misconfigurations
+  - Privilege Escalation
+  - Firewalls & IDS/IPS
+  - Cloud Attack Simulations
+- 🌱 Currently learning **Advanced DevOps + Security Concepts**
+- ⚡ Goal: To become a skilled **Cloud Security Engineer**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js" />
+</p>
 
 ---
 
-## 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
 ---
 
 ## ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
----
-
-## 🔐 Security Skills
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge)
-![Fortinet](https://img.shields.io/badge/Fortinet-red?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-grey?style=for-the-badge)
-
----
-
-## ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
-![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
-
----
-
-# 📜 Certifications
-
-- ✅ Generative AI: Prompt Engineering – Coursera
-- ✅ Cybersecurity Job Simulation – Deloitte
-- ✅ Responsive Web Design – FreeCodeCamp
-- ✅ Advanced Computer Networks – NPTEL
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilbloria&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbloria&layout=compact&theme=tokyonight" height="180"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🔐 Cybersecurity Skills
 
-<p align="left">
+```yaml
+Network Security:
+  - Firewalls
+  - IDS/IPS
+  - NAC
+  - DLP
 
-<a href="https://github.com/nikhilbloria" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
+Cloud Security:
+  - IAM Policies
+  - S3 Security
+  - EC2 Metadata Risks
+  - IMDSv2
+  - Least Privilege Access
 
-<a href="https://linkedin.com/in/nikhil-bloria" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
+Tools & Concepts:
+  - Linux
+  - Networking
+  - Security Hardening
+  - Threat Analysis
+  - Attack Simulation
+  ---
 
-<a href="mailto:nikhilbloria111@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+# 🏆 Certifications & Training
 
-</p>
+## 📜 Certifications
+
+- ✅ CEH v13 (Certified Ethical Hacker v13) — EC-Council *(In Progress)*
+- ✅ Fortinet Certified Professional — Network Security (NSE 6)
+- ✅ Generative AI: Prompt Engineering — Coursera
+- ✅ Cybersecurity Job Simulation — Deloitte
+- ✅ Responsive Web Design — FreeCodeCamp
+- ✅ Advanced Computer Networks — NPTEL
 
 ---
 
-⭐ “Always learning, building, and improving.”
+## 🎓 Training Programs
+
+### 🚀 CODEQUEST — DSA Bootcamp: Basic to Brilliance
+📅 May 2025 – Jun 2025
+
+- Learned Data Structures & Algorithms from basic to advanced level
+- Improved problem-solving and analytical thinking skills
+- Practiced optimization using time & space complexity analysis
+- Solved coding problems using C++
+
+---
+
+### 🔐 Fortinet Certified Professional — Network Security (NSE 6)
+📅 Dec 2025 – Present
+
+- Learned Firewall, IPS & Network Security concepts
+- Worked on threat detection & prevention techniques
+- Explored real-world cybersecurity scenarios
+- Hands-on exposure with Fortinet security solutions
+
+---
